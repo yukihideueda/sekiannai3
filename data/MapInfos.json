@@ -1,0 +1,17 @@
+[
+null,
+{"id":1,"expanded":false,"name":"受付","order":1,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":false,"name":"１名様案内","order":2,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":3,"expanded":false,"name":"１名様でよろしいですか","order":3,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":4,"expanded":false,"name":"２名様でよろしいですか","order":4,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":5,"expanded":false,"name":"３～４名様でよろしいですか","order":5,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":6,"expanded":false,"name":"５～６名様でよろしいですか","order":6,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":7,"expanded":false,"name":"７名様以上でよろしいですか","order":7,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":8,"expanded":false,"name":"管理用","order":9,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":9,"expanded":false,"name":"ログ","order":8,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":10,"expanded":false,"name":"２名様案内","order":10,"parentId":0,"scrollX":819,"scrollY":453},
+{"id":11,"expanded":false,"name":"３～４名様案内","order":11,"parentId":0,"scrollX":819,"scrollY":453},
+{"id":12,"expanded":false,"name":"５～６名様案内","order":12,"parentId":0,"scrollX":819,"scrollY":453},
+{"id":13,"expanded":false,"name":"７名様以上案内","order":13,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":14,"expanded":false,"name":"席配置図","order":14,"parentId":0,"scrollX":832,"scrollY":640}
+]
